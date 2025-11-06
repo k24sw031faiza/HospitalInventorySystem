@@ -1,0 +1,13 @@
+# Ignore IntelliJ project files
+.idea/
+*.iml
+
+# Ignore compiled output
+out/
+*.class
+
+# Ignore temporary and log files
+*.log
+
+# Keep source code and resources visible
+!src/
