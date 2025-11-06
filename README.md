@@ -10,7 +10,6 @@ delete, and display** information.
 
 -   Manage doctor and patient information\
 -   Supply management module\
--   Neon-themed modern GUI using Java Swing\
 -   Stack-based data handling (LIFO operations)\
 -   Simple, user-friendly interface
 
@@ -18,12 +17,12 @@ delete, and display** information.
 
 -   **Language:** Java\
 -   **GUI Framework:** Swing\
--   **IDE:** IntelliJ IDEA / NetBeans
+-   **IDE:** IntelliJ IDEA 
 
 #### 🚀 How to Run
 
 1.  Clone or download the repository.\
-2.  Open the project in IntelliJ IDEA or any Java IDE.\
+2.  Open the project in IntelliJ IDEA 
 3.  Run the `LoginForm.java` or `DashboardFrame.java` file to start the
     system.
 
